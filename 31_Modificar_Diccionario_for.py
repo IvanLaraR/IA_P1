@@ -12,4 +12,4 @@ panaderia2 = { #creo un diccionario con el nombre panaderia2 y usando {}
     "precio": "19"#añado un elemento con su atributo despues del :
     
     }
-panaderia["precio"] = "30" #se llama 
+panaderia["precio"] = "30" #se llama tito
