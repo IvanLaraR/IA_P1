@@ -1,4 +1,4 @@
-#para creaer funciones se utiliza la palabra reservada DEf (la llamas cuando la quieras usar)
+#para crear funciones se utiliza la palabra reservada DEf (la llamas cuando la quieras usar)
 
 def Grita(): #definimos la palabra reservada def y le llamamos Grita
     print("ahhhhhhhhh")#se imprime el mensaje 
