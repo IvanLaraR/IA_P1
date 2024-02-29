@@ -31,4 +31,6 @@ print("\n")
 #el pass se usa para crear una lista vacia
 
 for x in '': #se declara un bucle for 
-	pass #se crea una lista vacia o se vacia 
+	pass #se crea una lista vacia o se vacia
+
+    
