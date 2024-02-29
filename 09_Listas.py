@@ -1,4 +1,4 @@
-
+#Creacion de una lista
 automoviles = ["Honda", "Fiat", "BMW", "Ford", "Kia"]#se crea una lista con 5 palabras diferentes 
 print(automoviles[2]) #se usa el print para imprimir se llama la lista y se le indica que posicion queremos ya que se cuenta desdxde el 0
 
