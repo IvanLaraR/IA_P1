@@ -1,0 +1,42 @@
+
+#el método strftime() con el que podrás formatear las fechas en strings
+
+import datetime, locale
+locale.setlocale(locale.LC_ALL,"es-ES")
+
+hoy = datetime.datetime.now()
+
+print(hoy.strftime("Día de la semana abreviado: %a "))
+print(hoy.strftime("Día de la semana completo: %A "))
+print(hoy.strftime("Mes abreviado: %b "))
+print(hoy.strftime("Mes completo: %B "))
+print(hoy.strftime("Fecha completa: %c "))
+print(hoy.strftime("Siglo (empieza a contar desde cero): %C "))
+print(hoy.strftime("Día del mes (01 - 31): %d "))
+print(hoy.strftime("Día/hora/año: %D "))
+print(hoy.strftime("Día del mes (1 - 31): %e "))
+print(hoy.strftime("Año en dos dígitos: %g "))
+print(hoy.strftime("Año en cuatro dígitos: %G "))
+print(hoy.strftime("Mes abreviado: %h "))
+print(hoy.strftime("Hora (00 - 23): %H "))
+print(hoy.strftime("Hora (01 - 12): %I "))
+print(hoy.strftime("Día del año: %j "))
+print(hoy.strftime("Mes del 01 al 12: %m "))
+print(hoy.strftime("Minuto: %M "))
+print(hoy.strftime("Salto de línea: %n"))
+print(hoy.strftime("AM o PM: %p "))
+print(hoy.strftime("Hora + AM o PM: %r"))
+print(hoy.strftime("Hora y minutos: %R"))
+print(hoy.strftime("Segundos: %S"))
+print(hoy.strftime("Tabulación: %t"))
+print(hoy.strftime("Hora, minutos y segundos: %T"))
+print(hoy.strftime("Día de la semana (número): %u"))
+print(hoy.strftime("Semana del año (empieza en domingo): %U"))
+print(hoy.strftime("Semana del año(Condiciones especiales): %V"))
+print(hoy.strftime("Semana del año (empieza en lunes): %W"))
+print(hoy.strftime("Día de la semana (empieza en domingo): %w"))
+print(hoy.strftime("Día/mes/año de dos dígitos: %x"))
+print(hoy.strftime("Hora/minutos/segundos: %X"))
+print(hoy.strftime("Año corto: %y"))
+print(hoy.strftime("Año largo: %Y"))
+
