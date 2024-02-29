@@ -28,3 +28,4 @@ print("\n")
 
 muestra = dict(panaderia)#se declara la varible y se llama al diccionario completo
 print(muestra)#se imprime 
+
