@@ -13,13 +13,13 @@ print(nombre)#se usa el print para imprimir el mensaje y mostarlo en la pantalla
 #para sumar numeros 
 var = 120 #se declara una varibale que va a ser igual a 
 var2 = 200 #se declara una variable que va a ser igual a 
-suma = var + var2 # se declara una variable que va ser igual a la suma de las dos primeras variables
-print(suma)#se usa el print para imprimir el mensaje y mostarlo en la pantalla
+unir = var + var2 # se declara una variable que va ser igual a la suma de las dos primeras variables
+print(unir)#se usa el print para imprimir el mensaje y mostarlo en la pantalla
 
 #para juntar los numeros con string
 n1 = '120' #se declara una varibale que va a tener '' o "" para convertirlo en un tipo string 
 n2 = '150' #se declara una varibale que va a tener '' o "" para convertirlo en un tipo string 
-suma = n1+ n2 #se declara una variable  que va ser igual a la suma de las dos primeras variables
-print(suma) #se usa el print para imprimir el mensaje y mostarlo en la pantalla
+unir = n1+ n2 #se declara una variable  que va ser igual a la suma de las dos primeras variables
+print(unir) #se usa el print para imprimir el mensaje y mostarlo en la pantalla
 
 
