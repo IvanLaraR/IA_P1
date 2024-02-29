@@ -21,3 +21,5 @@ automoviles = ["Honda", "Fiat", "BMW", "Ford", "Kia", "Bentley", "Tesla", "Toyot
 print("\t",sorted(automoviles))#se va a imprimir la lista y ordenar y guardar en la variable
 print("\t",automoviles) #se imprime la lista
 
+
+
